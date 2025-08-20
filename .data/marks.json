@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2,
+    "tagId": 1,
+    "type": "text",
+    "content": "调试微信网页：http://debugxweb.qq.com/?inspector=true",
+    "url": null,
+    "desc": "调试微信网页：http://debugxweb.qq.com/?inspector=true",
+    "deleted": 0,
+    "createdAt": 1755586926667
+  },
+  {
+    "id": 1,
+    "tagId": 1,
+    "type": "text",
+    "content": "Forever/natvie-share",
+    "url": null,
+    "desc": "Forever/natvie-share",
+    "deleted": 0,
+    "createdAt": 1755572025873
+  }
+]
