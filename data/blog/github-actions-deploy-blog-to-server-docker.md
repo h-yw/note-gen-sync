@@ -1,5 +1,6 @@
 ---
 title: 使用 GitHub Actions 自动构建和部署 Docker 镜像
+type: Blog
 date: 2024-08-29
 tags: [笔记, 教程]
 keywords: [ifcat, GitHub Actions 自动化部署, Docker, CI/CD, GitHub Actions Docker 部署]
