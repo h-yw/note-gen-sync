@@ -1,5 +1,5 @@
 ---
-type: Author
+type: Authors
 name: Sparrow Hawk
 avatar: /static/images/sparrowhawk-avatar.jpg
 occupation: Wizard of Earthsea
