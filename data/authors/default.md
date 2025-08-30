@@ -1,4 +1,5 @@
 ---
+type: Author
 name: houyw
 avatar: /static/images/avatar.png
 occupation: 前端攻城狮
@@ -55,3 +56,4 @@ weibo: https://weibo.com/u/3486647682
       </div>
     ))}
 </div>
+
