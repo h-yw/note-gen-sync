@@ -1,5 +1,5 @@
 ---
-type: Author
+type: Authors
 name: houyw
 avatar: /static/images/avatar.png
 occupation: 前端攻城狮
