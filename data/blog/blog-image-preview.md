@@ -63,7 +63,7 @@ async function getImageData(blur) {
 
 ## 展示
 
-![原图->编码->解码](https://raw.githubusercontent.com/h-yw/note-gen-image-sync/master/0fc79af8-b206-494d-bae4-6947ae20ead3.png)
+![原图->编码->解码](https://cdn.jsdelivr.net/gh/h-yw/note-gen-image-sync@master/0fc79af8-b206-494d-bae4-6947ae20ead3.png)
 
 ## 总结
 
