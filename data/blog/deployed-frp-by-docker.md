@@ -109,7 +109,7 @@ docker-compose up -d
 
 &emsp;&emsp;访问 `https://frp.example.com` 即可看到frp的服务状态。
 
-![frp面板](https://raw.githubusercontent.com/h-yw/note-gen-image-sync/master/c50c5d36-1f44-49e8-990b-79792918ba0b.png)
+![frp面板](https://cdn.jsdelivr.net/gh/h-yw/note-gen-image-sync@master/c50c5d36-1f44-49e8-990b-79792918ba0b.png)
 
 ## 客户端部署
 
