@@ -21,7 +21,7 @@ summary: 今天就讲一下如何在 docker 中部署 umami，以及遇到的坑
 
 &emsp;&emsp;创建完项目以后，在connect中就能看到数据库的连接信息。
 
-![alt](https://raw.githubusercontent.com/h-yw/note-gen-image-sync/master/10d3f06b-f4f1-49ae-b60e-100e22a45835.png)
+![alt](https://cdn.jsdelivr.net/gh/h-yw/note-gen-image-sync@master/10d3f06b-f4f1-49ae-b60e-100e22a45835.png)
 
 > [!WARNING/注意]
 > 切记选择 **Transaction pooler** 这个 URI 啊，否则就连不上数据库了！
@@ -61,7 +61,7 @@ docker-compose up -d
 
 &emsp;&emsp; 由于我使用了nginx proxy manager来管理nginx，所以直接在nginx proxy manager中添加一个代理，然后就ok了。所以...这里也没有nginx的配置了😅
 
-![nginx proxy manager配置](https://raw.githubusercontent.com/h-yw/note-gen-image-sync/master/91001de3-9bc1-4a50-af06-afb1cfb08170.png)
+![nginx proxy manager配置](https://cdn.jsdelivr.net/gh/h-yw/note-gen-image-sync@master/91001de3-9bc1-4a50-af06-afb1cfb08170.png)
 
 ## 测试
 
@@ -72,7 +72,7 @@ docker-compose up -d
 密码: umami
 ```
 
-![umami](https://raw.githubusercontent.com/h-yw/note-gen-image-sync/master/1009bd17-df8a-4c47-8066-29e473a717e9.png)
+![umami](https://cdn.jsdelivr.net/gh/h-yw/note-gen-image-sync@master/1009bd17-df8a-4c47-8066-29e473a717e9.png)
 
 ## 遇到的坑
 
