@@ -32,7 +32,7 @@ summary: 这两天忽然想把bolg的文章也在微信公众号上也同步一�
 
 &emsp;&emsp;微信公众号平台里配置好消息推送的回调地址，同时要配置消息加密的 `Token`和 `EncodingAESKey`，这里就不多说了。[(微信公众号服务器配置)](https://mp.weixin.qq.com/advanced/advanced?action=dev&t=advanced/dev&lang=zh_CN)
 
-![微信公众号服务器配置](https://raw.githubusercontent.com/h-yw/note-gen-image-sync/master/9cc19864-6d90-4897-82f1-a1f7420e31dc.png)
+![微信公众号服务器配置](https://cdn.jsdelivr.net/gh/h-yw/note-gen-image-sync@master/9cc19864-6d90-4897-82f1-a1f7420e31dc.png)
 
 ## api验证
 
@@ -294,4 +294,4 @@ access_token 获取和刷新的流程，这里就不展开说了哈哈哈哈哈�
 
 **最后贴一下公众号的二维码吧📱:**
 
-![公众号二维码-如果是只猫](https://raw.githubusercontent.com/h-yw/note-gen-image-sync/master/54474185-4613-4d55-b24a-c078dd8c10e3.png)
+![公众号二维码-如果是只猫](https://cdn.jsdelivr.net/gh/h-yw/note-gen-image-sync@master/54474185-4613-4d55-b24a-c078dd8c10e3.png)
