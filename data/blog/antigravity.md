@@ -5,8 +5,8 @@ date: 2025-11-20
 tags: [笔记, 教程]
 keywords: [ifcat, Google Antigravity, Antigravity]
 draft: false
-description: Google Antigravity 登陆时遇到两个问题，一个是登陆时浏览器回跳Antigravity后没有反应，一个是有反应后报错 "your current account is not eligible for antigravity, because it is not currently available in your location."
-summary: Google Antigravity登陆时遇到两个问题，一个是登陆时浏览器回跳Antigravity后没有反应，一个是有反应后报错 "your current account is not eligible for antigravity, because it is not currently available in your location."
+description: Google Antigravity 登陆时遇到两个问题，一个是登陆时浏览器回跳Antigravity后没有反应，一个是有反应后报错: “your current account is not eligible for antigravity, because it is not currently available in your location.
+summary: Google Antigravity登陆时遇到两个问题，一个是登陆时浏览器回跳Antigravity后没有反应，一个是有反应后报错: “your current account is not eligible for antigravity, because it is not currently available in your location.
 ---
 ## 前言
 
