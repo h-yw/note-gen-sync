@@ -1,0 +1,672 @@
+{
+  "enableCondense": true,
+  "canvasGridGap": 20,
+  "commitModel": "note-gen-chat",
+  "previewTheme": "github",
+  "clipboardMonitor": true,
+  "agentSystemPromptExtension": "",
+  "giteaAutoSync": "disabled",
+  "placeholderModel": "note-gen-chat",
+  "showEditorUndoRedo": true,
+  "language": "简体中文",
+  "gitlabUsername": "",
+  "autoPullOnSwitch": false,
+  "outlineWidth": 220,
+  "isVectorDbEnabled": false,
+  "editorViewMode": "source",
+  "showMobileEditorToolbar": true,
+  "isRagEnabled": false,
+  "audioModel": "",
+  "autoUpdate": true,
+  "giteaInstanceType": "gitea.com",
+  "canvasGridStyle": "dots",
+  "canvasDefaultZoom": 1,
+  "fileManagerTextSize": "sm",
+  "chatToolbarConfigPc": [
+    {
+      "enabled": true,
+      "id": "modelSelect",
+      "order": 0
+    },
+    {
+      "enabled": true,
+      "id": "promptSelect",
+      "order": 1
+    },
+    {
+      "enabled": true,
+      "id": "chatLanguage",
+      "order": 2
+    },
+    {
+      "enabled": true,
+      "id": "chatLink",
+      "order": 3
+    },
+    {
+      "enabled": true,
+      "id": "fileLink",
+      "order": 4
+    },
+    {
+      "enabled": true,
+      "id": "mcpButton",
+      "order": 5
+    },
+    {
+      "enabled": true,
+      "id": "ragSwitch",
+      "order": 6
+    },
+    {
+      "enabled": true,
+      "id": "clipboardMonitor",
+      "order": 7
+    },
+    {
+      "enabled": true,
+      "id": "clearContext",
+      "order": 8
+    },
+    {
+      "enabled": true,
+      "id": "clearChat",
+      "order": 9
+    },
+    {
+      "enabled": true,
+      "id": "newChat",
+      "order": 10
+    }
+  ],
+  "tesseractList": "eng,chi_sim",
+  "jsdelivr": true,
+  "editorWorkspaceLayout:main": {
+    "activeGroupId": "editor-group-de63787b-1e63-4136-a32a-e0dfbd5f3131",
+    "groups": {
+      "editor-group-de63787b-1e63-4136-a32a-e0dfbd5f3131": {
+        "activeTabId": "1781769338044-p6ethsg1k",
+        "id": "editor-group-de63787b-1e63-4136-a32a-e0dfbd5f3131",
+        "tabIds": [
+          "1781769338044-p6ethsg1k",
+          "1787990884081-w2quulmz6"
+        ]
+      }
+    },
+    "root": {
+      "groupId": "editor-group-de63787b-1e63-4136-a32a-e0dfbd5f3131",
+      "id": "editor-node-50657d01-3dba-40ea-8d15-dad1c91edde1",
+      "type": "group"
+    },
+    "version": 1
+  },
+  "sttModel": "note-gen-free-note-gen-stt",
+  "keepLatestCount": 4,
+  "textToSpeechMode": "auto",
+  "giteeAutoSync": "disabled",
+  "chatLanguage": "中文",
+  "enableOutline": true,
+  "showSourceLineNumbers": true,
+  "canvasManagerViewMode": "grid",
+  "shortcuts": [
+    {
+      "key": "openWindow",
+      "value": "CommandOrControl+Shift+W"
+    },
+    {
+      "key": "quickRecordText",
+      "value": "CommandOrControl+Shift+T"
+    }
+  ],
+  "proxy": "",
+  "fileSidebarVisible": true,
+  "recordTextSize": "sm",
+  "embeddingModel": "note-gen-embedding",
+  "markDesc": "note-gen-chat",
+  "rightSidebarVisible": false,
+  "currentPromptId": "0",
+  "imageMethodModel": "note-gen-vlm",
+  "githubUsername": "h-yw",
+  "noteSidebarVisible": true,
+  "customThemeColors": {
+    "dark": {
+      "accent": [
+        215,
+        16,
+        47
+      ],
+      "accentForeground": [
+        0,
+        0,
+        100
+      ],
+      "background": [
+        210,
+        40,
+        98
+      ],
+      "border": [
+        214,
+        32,
+        91
+      ],
+      "card": [
+        0,
+        0,
+        100
+      ],
+      "cardForeground": [
+        217,
+        33,
+        17
+      ],
+      "foreground": [
+        217,
+        33,
+        17
+      ],
+      "muted": [
+        210,
+        40,
+        96
+      ],
+      "mutedForeground": [
+        215,
+        16,
+        47
+      ],
+      "primary": [
+        215,
+        19,
+        35
+      ],
+      "primaryForeground": [
+        0,
+        0,
+        100
+      ],
+      "secondary": [
+        214,
+        32,
+        91
+      ],
+      "secondaryForeground": [
+        217,
+        33,
+        17
+      ],
+      "shadow": [
+        222,
+        47,
+        11
+      ],
+      "third": [
+        213,
+        27,
+        84
+      ],
+      "thirdForeground": [
+        215,
+        25,
+        27
+      ]
+    },
+    "light": {
+      "accent": [
+        215,
+        16,
+        47
+      ],
+      "accentForeground": [
+        0,
+        0,
+        100
+      ],
+      "background": [
+        210,
+        40,
+        98
+      ],
+      "border": [
+        214,
+        32,
+        91
+      ],
+      "card": [
+        0,
+        0,
+        100
+      ],
+      "cardForeground": [
+        217,
+        33,
+        17
+      ],
+      "foreground": [
+        217,
+        33,
+        17
+      ],
+      "muted": [
+        210,
+        40,
+        96
+      ],
+      "mutedForeground": [
+        215,
+        16,
+        47
+      ],
+      "primary": [
+        215,
+        19,
+        35
+      ],
+      "primaryForeground": [
+        0,
+        0,
+        100
+      ],
+      "secondary": [
+        214,
+        32,
+        91
+      ],
+      "secondaryForeground": [
+        217,
+        33,
+        17
+      ],
+      "shadow": [
+        222,
+        47,
+        11
+      ],
+      "third": [
+        213,
+        27,
+        84
+      ],
+      "thirdForeground": [
+        215,
+        25,
+        27
+      ]
+    }
+  },
+  "markDescModel": "note-gen-chat",
+  "darkMode": "system",
+  "primaryImageMethod": "ocr",
+  "commit": "note-gen-chat",
+  "promptList": [
+    {
+      "content": "请你扮演一个笔记软件的智能助手，可以参考记录内容，使用 markdown 语法，回答用户的问题。",
+      "id": "0",
+      "isDefault": true,
+      "title": "写作助手"
+    }
+  ],
+  "note_locale": "中文",
+  "gitlabAutoSync": "disabled",
+  "currentAi": "14eb94f9-cc02-407c-88eb-c396c10735d1",
+  "autoPullOnOpen": false,
+  "globalSearchFilter": "all",
+  "recordSortMode": "newest",
+  "githubImageUsername": "h-yw",
+  "enableLineNumber": true,
+  "codeTheme": "github",
+  "completionModel": "note-gen-chat",
+  "canvasMinimapVisible": true,
+  "githubCustomImageRepo": "",
+  "completion": "note-gen-chat",
+  "currentTagId": 2,
+  "giteaCustomUrl": "",
+  "leftSidebarTab": "files",
+  "outlinePosition": "right",
+  "recordToolbarConfig": [
+    {
+      "enabled": true,
+      "id": "text",
+      "order": 0
+    },
+    {
+      "enabled": true,
+      "id": "recording",
+      "order": 1
+    },
+    {
+      "enabled": true,
+      "id": "scan",
+      "order": 2
+    },
+    {
+      "enabled": true,
+      "id": "image",
+      "order": 3
+    },
+    {
+      "enabled": true,
+      "id": "link",
+      "order": 4
+    },
+    {
+      "enabled": true,
+      "id": "file",
+      "order": 5
+    },
+    {
+      "enabled": true,
+      "id": "todo",
+      "order": 6
+    }
+  ],
+  "speechToTextMode": "auto",
+  "translateModel": "14eb94f9-cc02-407c-88eb-c396c10735d1",
+  "showCloudFiles": true,
+  "centerPanelVisible": true,
+  "autoSync": "disabled",
+  "recordSaveTargetMode": "current",
+  "templateList": [
+    {
+      "content": "整理成一篇详细完整的笔记。\n满足以下格式要求：\n- 如果是代码，必须完整保留，不要随意生成。\n- 文字复制的内容尽量不要修改，只处理格式化后的内容。",
+      "id": "0",
+      "range": "all",
+      "status": true,
+      "title": "笔记"
+    },
+    {
+      "content": "最近一周的记录整理成一篇周报，将每条记录形成一句总结，每条不超过50字。",
+      "id": "1",
+      "range": "week",
+      "status": true,
+      "title": "周报"
+    }
+  ],
+  "showEditorStats": true,
+  "canvasWheelBehavior": "zoom",
+  "giteaUsername": "",
+  "agentCorePromptVersion": 4,
+  "typewriterMode": true,
+  "chatToolbarConfigMobile": [
+    {
+      "enabled": true,
+      "id": "modelSelect",
+      "order": 0
+    },
+    {
+      "enabled": true,
+      "id": "promptSelect",
+      "order": 1
+    },
+    {
+      "enabled": true,
+      "id": "chatLanguage",
+      "order": 2
+    },
+    {
+      "enabled": true,
+      "id": "chatLink",
+      "order": 3
+    },
+    {
+      "enabled": true,
+      "id": "fileLink",
+      "order": 4
+    },
+    {
+      "enabled": true,
+      "id": "mcpButton",
+      "order": 5
+    },
+    {
+      "enabled": true,
+      "id": "ragSwitch",
+      "order": 6
+    },
+    {
+      "enabled": true,
+      "id": "clipboardMonitor",
+      "order": 7
+    },
+    {
+      "enabled": true,
+      "id": "clearContext",
+      "order": 8
+    },
+    {
+      "enabled": true,
+      "id": "clearChat",
+      "order": 9
+    },
+    {
+      "enabled": true,
+      "id": "newChat",
+      "order": 10
+    }
+  ],
+  "editorContentWidth": "full",
+  "gitlabCustomUrl": "",
+  "inspirationModel": "note-gen-chat",
+  "translatePrimaryModel": "14eb94f9-cc02-407c-88eb-c396c10735d1",
+  "editorSourceWrap": true,
+  "canvasSnapToGrid": false,
+  "canvasInsertBehavior": "select",
+  "ragStructuredKnowledgeConsent": false,
+  "gitlabInstanceType": "gitlab.com",
+  "trayEnabled": true,
+  "recordCompletionBehavior": "highlight",
+  "editorShortcuts": [
+    {
+      "id": "undo",
+      "value": "Mod+Z"
+    },
+    {
+      "id": "redo",
+      "value": "Shift+Mod+Z"
+    },
+    {
+      "id": "setParagraph",
+      "value": "Mod+Alt+0"
+    },
+    {
+      "id": "toggleHeading1",
+      "value": "Mod+Alt+1"
+    },
+    {
+      "id": "toggleHeading2",
+      "value": "Mod+Alt+2"
+    },
+    {
+      "id": "toggleHeading3",
+      "value": "Mod+Alt+3"
+    },
+    {
+      "id": "toggleHeading4",
+      "value": "Mod+Alt+4"
+    },
+    {
+      "id": "toggleHeading5",
+      "value": "Mod+Alt+5"
+    },
+    {
+      "id": "toggleHeading6",
+      "value": "Mod+Alt+6"
+    },
+    {
+      "id": "openSearch",
+      "value": "Mod+F"
+    },
+    {
+      "id": "openSlashCommand",
+      "value": "Mod+/"
+    },
+    {
+      "id": "toggleOutline",
+      "value": "Shift+Mod+O"
+    },
+    {
+      "id": "toggleBold",
+      "value": "Mod+B"
+    },
+    {
+      "id": "toggleItalic",
+      "value": "Mod+I"
+    },
+    {
+      "id": "toggleStrike",
+      "value": "Shift+Mod+S"
+    },
+    {
+      "id": "toggleUnderline",
+      "value": "Mod+U"
+    },
+    {
+      "id": "toggleInlineCode",
+      "value": "Mod+E"
+    },
+    {
+      "id": "toggleHighlight",
+      "value": "Shift+Mod+H"
+    },
+    {
+      "id": "openLinkInput",
+      "value": "Mod+K"
+    },
+    {
+      "id": "toggleBlockquote",
+      "value": "Shift+Mod+B"
+    },
+    {
+      "id": "toggleBulletList",
+      "value": "Shift+Mod+8"
+    },
+    {
+      "id": "toggleOrderedList",
+      "value": "Shift+Mod+7"
+    },
+    {
+      "id": "toggleTaskList",
+      "value": "Shift+Mod+9"
+    },
+    {
+      "id": "toggleCodeBlock",
+      "value": "Mod+Alt+C"
+    },
+    {
+      "id": "openAiMenu",
+      "value": "Mod+J"
+    },
+    {
+      "id": "aiContinue",
+      "value": "Shift+Mod+J"
+    },
+    {
+      "id": "aiPolish",
+      "value": ""
+    },
+    {
+      "id": "aiConcise",
+      "value": ""
+    },
+    {
+      "id": "aiExpand",
+      "value": ""
+    },
+    {
+      "id": "aiTranslate",
+      "value": ""
+    },
+    {
+      "id": "acceptAiSuggestion",
+      "value": "Mod+Enter"
+    },
+    {
+      "id": "rejectAiSuggestion",
+      "value": "Escape"
+    },
+    {
+      "id": "abortAiGeneration",
+      "value": "Mod+."
+    },
+    {
+      "id": "insertTable",
+      "value": "Mod+Alt+T"
+    },
+    {
+      "id": "addColumnBefore",
+      "value": ""
+    },
+    {
+      "id": "addColumnAfter",
+      "value": ""
+    },
+    {
+      "id": "addRowBefore",
+      "value": ""
+    },
+    {
+      "id": "addRowAfter",
+      "value": ""
+    },
+    {
+      "id": "deleteColumn",
+      "value": ""
+    },
+    {
+      "id": "deleteRow",
+      "value": ""
+    },
+    {
+      "id": "deleteTable",
+      "value": ""
+    },
+    {
+      "id": "alignLeft",
+      "value": "Shift+Mod+L"
+    },
+    {
+      "id": "alignCenter",
+      "value": "Shift+Mod+E"
+    },
+    {
+      "id": "alignRight",
+      "value": "Shift+Mod+R"
+    },
+    {
+      "id": "insertImage",
+      "value": "Shift+Mod+I"
+    },
+    {
+      "id": "insertInlineMath",
+      "value": "Mod+Alt+M"
+    },
+    {
+      "id": "insertBlockMath",
+      "value": "Shift+Mod+Alt+M"
+    },
+    {
+      "id": "insertMermaid",
+      "value": "Mod+Alt+D"
+    },
+    {
+      "id": "insertHorizontalRule",
+      "value": "Mod+Alt+-"
+    }
+  ],
+  "fixedRecordTagId": null,
+  "version": "0.36.0",
+  "condenseModel": "note-gen-chat",
+  "enableImageRecognition": false,
+  "primaryModel": "note-gen-chat",
+  "pin": true,
+  "canvasGridVisible": true,
+  "placeholder": "note-gen-chat",
+  "editorModel": "",
+  "recordViewMode": "cards",
+  "rerankingModel": "",
+  "leftSidebarVisible": true,
+  "editorLineHeight": "comfortable",
+  "canvasManagerSortMode": "updated",
+  "agentPermissionMode": "ask",
+  "condenseMaxLength": 100
+}
