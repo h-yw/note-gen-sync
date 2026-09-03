@@ -11,9 +11,9 @@
   "language": "简体中文",
   "gitlabUsername": "",
   "autoPullOnSwitch": false,
-  "outlineWidth": 220,
+  "outlineWidth": 391,
   "isVectorDbEnabled": false,
-  "editorViewMode": "source",
+  "editorViewMode": "visual",
   "showMobileEditorToolbar": true,
   "isRagEnabled": false,
   "audioModel": "",
@@ -85,10 +85,13 @@
     "activeGroupId": "editor-group-de63787b-1e63-4136-a32a-e0dfbd5f3131",
     "groups": {
       "editor-group-de63787b-1e63-4136-a32a-e0dfbd5f3131": {
-        "activeTabId": "blank-a8b31764-22a8-4260-a2a9-8e8eaa37b202",
+        "activeTabId": "1788405602075-tc902d2jv",
         "id": "editor-group-de63787b-1e63-4136-a32a-e0dfbd5f3131",
         "tabIds": [
-          "blank-a8b31764-22a8-4260-a2a9-8e8eaa37b202"
+          "1787991493295-8wmukqnr7",
+          "1787991493923-9q772wom0",
+          "1787991495306-idpsez5xj",
+          "1788405602075-tc902d2jv"
         ]
       }
     },
