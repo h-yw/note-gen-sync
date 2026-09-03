@@ -311,7 +311,7 @@
   "note_locale": "中文",
   "gitlabAutoSync": "disabled",
   "currentAi": "14eb94f9-cc02-407c-88eb-c396c10735d1",
-  "autoPullOnOpen": false,
+  "autoPullOnOpen": true,
   "globalSearchFilter": "all",
   "recordSortMode": "newest",
   "githubImageUsername": "h-yw",
@@ -366,7 +366,7 @@
   "translateModel": "14eb94f9-cc02-407c-88eb-c396c10735d1",
   "showCloudFiles": true,
   "centerPanelVisible": true,
-  "autoSync": "disabled",
+  "autoSync": "10",
   "recordSaveTargetMode": "current",
   "templateList": [
     {
