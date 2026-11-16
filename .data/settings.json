@@ -1,115 +1,9 @@
 {
-  "enableCondense": true,
-  "canvasGridGap": 20,
-  "commitModel": "note-gen-chat",
-  "previewTheme": "github",
-  "clipboardMonitor": true,
-  "agentSystemPromptExtension": "",
-  "giteaAutoSync": "disabled",
-  "placeholderModel": "note-gen-chat",
-  "showEditorUndoRedo": true,
-  "language": "简体中文",
-  "gitlabUsername": "",
-  "autoPullOnSwitch": false,
-  "outlineWidth": 391,
-  "isVectorDbEnabled": false,
-  "editorViewMode": "visual",
-  "showMobileEditorToolbar": true,
-  "isRagEnabled": false,
-  "audioModel": "",
-  "autoUpdate": true,
-  "giteaInstanceType": "gitea.com",
-  "canvasGridStyle": "dots",
-  "canvasDefaultZoom": 1,
-  "fileManagerTextSize": "sm",
-  "chatToolbarConfigPc": [
-    {
-      "enabled": true,
-      "id": "modelSelect",
-      "order": 0
-    },
-    {
-      "enabled": true,
-      "id": "promptSelect",
-      "order": 1
-    },
-    {
-      "enabled": true,
-      "id": "chatLanguage",
-      "order": 2
-    },
-    {
-      "enabled": true,
-      "id": "chatLink",
-      "order": 3
-    },
-    {
-      "enabled": true,
-      "id": "fileLink",
-      "order": 4
-    },
-    {
-      "enabled": true,
-      "id": "mcpButton",
-      "order": 5
-    },
-    {
-      "enabled": true,
-      "id": "ragSwitch",
-      "order": 6
-    },
-    {
-      "enabled": true,
-      "id": "clipboardMonitor",
-      "order": 7
-    },
-    {
-      "enabled": true,
-      "id": "clearContext",
-      "order": 8
-    },
-    {
-      "enabled": true,
-      "id": "clearChat",
-      "order": 9
-    },
-    {
-      "enabled": true,
-      "id": "newChat",
-      "order": 10
-    }
-  ],
-  "tesseractList": "eng,chi_sim",
-  "jsdelivr": true,
-  "editorWorkspaceLayout:main": {
-    "activeGroupId": "editor-group-de63787b-1e63-4136-a32a-e0dfbd5f3131",
-    "groups": {
-      "editor-group-de63787b-1e63-4136-a32a-e0dfbd5f3131": {
-        "activeTabId": "1788405602075-tc902d2jv",
-        "id": "editor-group-de63787b-1e63-4136-a32a-e0dfbd5f3131",
-        "tabIds": [
-          "1787991493295-8wmukqnr7",
-          "1787991493923-9q772wom0",
-          "1787991495306-idpsez5xj",
-          "1788405602075-tc902d2jv"
-        ]
-      }
-    },
-    "root": {
-      "groupId": "editor-group-de63787b-1e63-4136-a32a-e0dfbd5f3131",
-      "id": "editor-node-50657d01-3dba-40ea-8d15-dad1c91edde1",
-      "type": "group"
-    },
-    "version": 1
-  },
-  "sttModel": "note-gen-free-note-gen-stt",
-  "keepLatestCount": 4,
-  "textToSpeechMode": "auto",
-  "giteeAutoSync": "disabled",
-  "chatLanguage": "中文",
-  "enableOutline": true,
-  "showSourceLineNumbers": true,
+  "darkMode": "system",
+  "gitlabInstanceType": "gitlab.com",
+  "placeholder": "note-gen-chat",
   "canvasManagerViewMode": "grid",
+  "typewriterMode": true,
   "shortcuts": [
     {
       "key": "openWindow",
@@ -120,275 +14,12 @@
       "value": "CommandOrControl+Shift+T"
     }
   ],
-  "proxy": "",
-  "fileSidebarVisible": true,
+  "sttModel": "note-gen-free-note-gen-stt",
+  "primaryModel": "note-gen-chat",
   "recordTextSize": "sm",
-  "embeddingModel": "note-gen-embedding",
-  "markDesc": "note-gen-chat",
-  "rightSidebarVisible": false,
-  "currentPromptId": "0",
-  "imageMethodModel": "note-gen-vlm",
-  "githubUsername": "h-yw",
-  "noteSidebarVisible": true,
-  "customThemeColors": {
-    "dark": {
-      "accent": [
-        215,
-        16,
-        47
-      ],
-      "accentForeground": [
-        0,
-        0,
-        100
-      ],
-      "background": [
-        210,
-        40,
-        98
-      ],
-      "border": [
-        214,
-        32,
-        91
-      ],
-      "card": [
-        0,
-        0,
-        100
-      ],
-      "cardForeground": [
-        217,
-        33,
-        17
-      ],
-      "foreground": [
-        217,
-        33,
-        17
-      ],
-      "muted": [
-        210,
-        40,
-        96
-      ],
-      "mutedForeground": [
-        215,
-        16,
-        47
-      ],
-      "primary": [
-        215,
-        19,
-        35
-      ],
-      "primaryForeground": [
-        0,
-        0,
-        100
-      ],
-      "secondary": [
-        214,
-        32,
-        91
-      ],
-      "secondaryForeground": [
-        217,
-        33,
-        17
-      ],
-      "shadow": [
-        222,
-        47,
-        11
-      ],
-      "third": [
-        213,
-        27,
-        84
-      ],
-      "thirdForeground": [
-        215,
-        25,
-        27
-      ]
-    },
-    "light": {
-      "accent": [
-        215,
-        16,
-        47
-      ],
-      "accentForeground": [
-        0,
-        0,
-        100
-      ],
-      "background": [
-        210,
-        40,
-        98
-      ],
-      "border": [
-        214,
-        32,
-        91
-      ],
-      "card": [
-        0,
-        0,
-        100
-      ],
-      "cardForeground": [
-        217,
-        33,
-        17
-      ],
-      "foreground": [
-        217,
-        33,
-        17
-      ],
-      "muted": [
-        210,
-        40,
-        96
-      ],
-      "mutedForeground": [
-        215,
-        16,
-        47
-      ],
-      "primary": [
-        215,
-        19,
-        35
-      ],
-      "primaryForeground": [
-        0,
-        0,
-        100
-      ],
-      "secondary": [
-        214,
-        32,
-        91
-      ],
-      "secondaryForeground": [
-        217,
-        33,
-        17
-      ],
-      "shadow": [
-        222,
-        47,
-        11
-      ],
-      "third": [
-        213,
-        27,
-        84
-      ],
-      "thirdForeground": [
-        215,
-        25,
-        27
-      ]
-    }
-  },
-  "markDescModel": "note-gen-chat",
-  "darkMode": "system",
-  "primaryImageMethod": "ocr",
-  "commit": "note-gen-chat",
-  "promptList": [
-    {
-      "content": "请你扮演一个笔记软件的智能助手，可以参考记录内容，使用 markdown 语法，回答用户的问题。",
-      "id": "0",
-      "isDefault": true,
-      "title": "写作助手"
-    }
-  ],
-  "note_locale": "中文",
-  "gitlabAutoSync": "disabled",
-  "currentAi": "14eb94f9-cc02-407c-88eb-c396c10735d1",
-  "autoPullOnOpen": true,
-  "globalSearchFilter": "all",
-  "recordSortMode": "newest",
-  "githubImageUsername": "h-yw",
-  "enableLineNumber": true,
-  "codeTheme": "github",
-  "completionModel": "note-gen-chat",
   "canvasMinimapVisible": true,
-  "githubCustomImageRepo": "",
-  "completion": "note-gen-chat",
-  "currentTagId": 2,
-  "giteaCustomUrl": "",
-  "leftSidebarTab": "files",
-  "outlinePosition": "right",
-  "recordToolbarConfig": [
-    {
-      "enabled": true,
-      "id": "text",
-      "order": 0
-    },
-    {
-      "enabled": true,
-      "id": "recording",
-      "order": 1
-    },
-    {
-      "enabled": true,
-      "id": "scan",
-      "order": 2
-    },
-    {
-      "enabled": true,
-      "id": "image",
-      "order": 3
-    },
-    {
-      "enabled": true,
-      "id": "link",
-      "order": 4
-    },
-    {
-      "enabled": true,
-      "id": "file",
-      "order": 5
-    },
-    {
-      "enabled": true,
-      "id": "todo",
-      "order": 6
-    }
-  ],
-  "speechToTextMode": "auto",
-  "translateModel": "14eb94f9-cc02-407c-88eb-c396c10735d1",
-  "showCloudFiles": true,
-  "centerPanelVisible": true,
-  "autoSync": "10",
-  "recordSaveTargetMode": "current",
-  "templateList": [
-    {
-      "content": "整理成一篇详细完整的笔记。\n满足以下格式要求：\n- 如果是代码，必须完整保留，不要随意生成。\n- 文字复制的内容尽量不要修改，只处理格式化后的内容。",
-      "id": "0",
-      "range": "all",
-      "status": true,
-      "title": "笔记"
-    },
-    {
-      "content": "最近一周的记录整理成一篇周报，将每条记录形成一句总结，每条不超过50字。",
-      "id": "1",
-      "range": "week",
-      "status": true,
-      "title": "周报"
-    }
-  ],
-  "showEditorStats": true,
-  "canvasWheelBehavior": "zoom",
-  "giteaUsername": "",
-  "agentCorePromptVersion": 4,
-  "typewriterMode": true,
+  "commit": "note-gen-chat",
+  "embeddingModel": "note-gen-embedding",
   "chatToolbarConfigMobile": [
     {
       "enabled": true,
@@ -446,17 +77,19 @@
       "order": 10
     }
   ],
-  "editorContentWidth": "full",
-  "gitlabCustomUrl": "",
-  "inspirationModel": "note-gen-chat",
-  "translatePrimaryModel": "14eb94f9-cc02-407c-88eb-c396c10735d1",
-  "editorSourceWrap": true,
-  "canvasSnapToGrid": false,
-  "canvasInsertBehavior": "select",
-  "ragStructuredKnowledgeConsent": false,
-  "gitlabInstanceType": "gitlab.com",
+  "githubCustomImageRepo": "",
+  "completionModel": "note-gen-chat",
+  "previewTheme": "github",
+  "keepLatestCount": 4,
   "trayEnabled": true,
+  "markDescModel": "note-gen-chat",
+  "outlinePlacement": "editor",
+  "autoPullOnSwitch": false,
+  "condenseModel": "note-gen-chat",
+  "enableLineNumber": true,
   "recordCompletionBehavior": "highlight",
+  "inspirationModel": "note-gen-chat",
+  "recordSaveTargetMode": "current",
   "editorShortcuts": [
     {
       "id": "undo",
@@ -655,20 +288,340 @@
       "value": "Mod+Alt+-"
     }
   ],
+  "canvasGridStyle": "dots",
+  "canvasDefaultZoom": 1,
+  "enableOutline": true,
   "fixedRecordTagId": null,
-  "version": "0.36.0",
-  "condenseModel": "note-gen-chat",
   "enableImageRecognition": false,
-  "primaryModel": "note-gen-chat",
-  "pin": true,
-  "canvasGridVisible": true,
-  "placeholder": "note-gen-chat",
-  "editorModel": "",
-  "recordViewMode": "cards",
+  "enableCondense": true,
+  "canvasWheelBehavior": "zoom",
+  "isVectorDbEnabled": false,
+  "condenseMaxLength": 100,
+  "markDesc": "note-gen-chat",
   "rerankingModel": "",
-  "leftSidebarVisible": true,
+  "commitModel": "note-gen-chat",
+  "giteaCustomUrl": "",
+  "editorViewMode": "visual",
+  "codeTheme": "github",
+  "recordToolbarConfig": [
+    {
+      "enabled": true,
+      "id": "text",
+      "order": 0
+    },
+    {
+      "enabled": true,
+      "id": "recording",
+      "order": 1
+    },
+    {
+      "enabled": true,
+      "id": "scan",
+      "order": 2
+    },
+    {
+      "enabled": true,
+      "id": "image",
+      "order": 3
+    },
+    {
+      "enabled": true,
+      "id": "link",
+      "order": 4
+    },
+    {
+      "enabled": true,
+      "id": "file",
+      "order": 5
+    },
+    {
+      "enabled": true,
+      "id": "todo",
+      "order": 6
+    }
+  ],
+  "canvasSnapToGrid": false,
+  "giteaInstanceType": "gitea.com",
+  "customThemeColors": {
+    "dark": {
+      "accent": [
+        215,
+        16,
+        47
+      ],
+      "accentForeground": [
+        0,
+        0,
+        100
+      ],
+      "background": [
+        210,
+        40,
+        98
+      ],
+      "border": [
+        214,
+        32,
+        91
+      ],
+      "card": [
+        0,
+        0,
+        100
+      ],
+      "cardForeground": [
+        217,
+        33,
+        17
+      ],
+      "foreground": [
+        217,
+        33,
+        17
+      ],
+      "muted": [
+        210,
+        40,
+        96
+      ],
+      "mutedForeground": [
+        215,
+        16,
+        47
+      ],
+      "primary": [
+        215,
+        19,
+        35
+      ],
+      "primaryForeground": [
+        0,
+        0,
+        100
+      ],
+      "secondary": [
+        214,
+        32,
+        91
+      ],
+      "secondaryForeground": [
+        217,
+        33,
+        17
+      ],
+      "shadow": [
+        222,
+        47,
+        11
+      ],
+      "third": [
+        213,
+        27,
+        84
+      ],
+      "thirdForeground": [
+        215,
+        25,
+        27
+      ]
+    },
+    "light": {
+      "accent": [
+        215,
+        16,
+        47
+      ],
+      "accentForeground": [
+        0,
+        0,
+        100
+      ],
+      "background": [
+        210,
+        40,
+        98
+      ],
+      "border": [
+        214,
+        32,
+        91
+      ],
+      "card": [
+        0,
+        0,
+        100
+      ],
+      "cardForeground": [
+        217,
+        33,
+        17
+      ],
+      "foreground": [
+        217,
+        33,
+        17
+      ],
+      "muted": [
+        210,
+        40,
+        96
+      ],
+      "mutedForeground": [
+        215,
+        16,
+        47
+      ],
+      "primary": [
+        215,
+        19,
+        35
+      ],
+      "primaryForeground": [
+        0,
+        0,
+        100
+      ],
+      "secondary": [
+        214,
+        32,
+        91
+      ],
+      "secondaryForeground": [
+        217,
+        33,
+        17
+      ],
+      "shadow": [
+        222,
+        47,
+        11
+      ],
+      "third": [
+        213,
+        27,
+        84
+      ],
+      "thirdForeground": [
+        215,
+        25,
+        27
+      ]
+    }
+  },
+  "isRagEnabled": false,
+  "jsdelivr": true,
+  "showCloudFiles": true,
+  "agentSystemPromptExtension": "",
+  "editorSourceWrap": true,
+  "recordViewMode": "cards",
+  "tesseractList": "eng,chi_sim",
+  "translateModel": "14eb94f9-cc02-407c-88eb-c396c10735d1",
+  "textToSpeechMode": "auto",
+  "autoUpdate": true,
+  "note_locale": "中文",
+  "placeholderModel": "note-gen-chat",
+  "canvasInsertBehavior": "select",
+  "templateList": [
+    {
+      "content": "整理成一篇详细完整的笔记。\n满足以下格式要求：\n- 如果是代码，必须完整保留，不要随意生成。\n- 文字复制的内容尽量不要修改，只处理格式化后的内容。",
+      "id": "0",
+      "range": "all",
+      "status": true,
+      "title": "笔记"
+    },
+    {
+      "content": "最近一周的记录整理成一篇周报，将每条记录形成一句总结，每条不超过50字。",
+      "id": "1",
+      "range": "week",
+      "status": true,
+      "title": "周报"
+    }
+  ],
+  "speechToTextMode": "auto",
+  "recordSortMode": "newest",
+  "canvasGridVisible": true,
+  "fileManagerTextSize": "sm",
+  "imageMethodModel": "note-gen-chat",
+  "promptList": [
+    {
+      "content": "请你扮演一个笔记软件的智能助手，可以参考记录内容，使用 markdown 语法，回答用户的问题。",
+      "id": "0",
+      "isDefault": true,
+      "title": "写作助手"
+    }
+  ],
+  "showEditorUndoRedo": true,
+  "language": "简体中文",
+  "translatePrimaryModel": "14eb94f9-cc02-407c-88eb-c396c10735d1",
+  "showEditorStats": true,
+  "showSourceLineNumbers": true,
+  "outlinePosition": "right",
+  "chatLanguage": "中文",
+  "completion": "note-gen-chat",
+  "editorModel": "",
+  "chatToolbarConfigPc": [
+    {
+      "enabled": true,
+      "id": "modelSelect",
+      "order": 0
+    },
+    {
+      "enabled": true,
+      "id": "promptSelect",
+      "order": 1
+    },
+    {
+      "enabled": true,
+      "id": "chatLanguage",
+      "order": 2
+    },
+    {
+      "enabled": true,
+      "id": "chatLink",
+      "order": 3
+    },
+    {
+      "enabled": true,
+      "id": "fileLink",
+      "order": 4
+    },
+    {
+      "enabled": true,
+      "id": "mcpButton",
+      "order": 5
+    },
+    {
+      "enabled": true,
+      "id": "ragSwitch",
+      "order": 6
+    },
+    {
+      "enabled": true,
+      "id": "clipboardMonitor",
+      "order": 7
+    },
+    {
+      "enabled": true,
+      "id": "clearContext",
+      "order": 8
+    },
+    {
+      "enabled": true,
+      "id": "clearChat",
+      "order": 9
+    },
+    {
+      "enabled": true,
+      "id": "newChat",
+      "order": 10
+    }
+  ],
+  "editorContentWidth": "full",
+  "showMobileEditorToolbar": true,
   "editorLineHeight": "comfortable",
   "canvasManagerSortMode": "updated",
-  "agentPermissionMode": "ask",
-  "condenseMaxLength": 100
+  "canvasGridGap": 20,
+  "gitlabCustomUrl": "",
+  "primaryImageMethod": "ocr",
+  "audioModel": ""
 }
