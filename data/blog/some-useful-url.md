@@ -6,10 +6,23 @@
 - [EditHere — 截图、写下意见、直接调整布局，把修改意图一次交给 AI。](https://github.com/Inginnng/EditHere)
 - [https://github.com/cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
 - [高性价比人生指南](https://eternity4719.github.io/HowToLiveBetter/)
-  &nbsp;
-    
 
-    
+&nbsp;
+
+$$
+
+
+$$
+A_n = A_1 + (n-1)d
+
+
+$$
 
 
 &nbsp;
+
+
+$$
+S_n=\frac{(a_1+a_n)n}{2}
+$$
+
